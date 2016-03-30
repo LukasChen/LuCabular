@@ -1,0 +1,24 @@
+{
+  "name": "lu-cabular",
+  "version": "1.0.0",
+  "description": "English Teaching",
+  "main": "index.js",
+  "dependencies": {
+    "angular": "^1.5.3",
+    "angular-sanitize": "^1.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LukasChen/LuCabular.git"
+  },
+  "author": "Lukas Chen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LukasChen/LuCabular/issues"
+  },
+  "homepage": "https://github.com/LukasChen/LuCabular#readme"
+}
