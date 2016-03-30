@@ -5,7 +5,9 @@
   "main": "index.js",
   "dependencies": {
     "angular": "^1.5.3",
-    "angular-sanitize": "^1.5.3"
+    "angular-sanitize": "^1.5.3",
+    "jquery": "^2.2.2",
+    "uikit": "^2.26.0"
   },
   "devDependencies": {},
   "scripts": {
