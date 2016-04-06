@@ -1,1 +1,134 @@
-
+[
+  {
+    "en": "Walk straight / sit up straight",
+    "enInfo": "",
+    "cn": "直走 / 站直",
+    "cnInfo": "zhí zǒu / zhà zhí"
+  },
+  {
+    "en": "You did a good (acceptable, bad) job",
+    "enInfo": "",
+    "cn": "你做了了不起的工作（还可以，很不好）",
+    "cnInfo": "nǐ zuò le liáo bú qǐ de gōng zuò （hái kě yǐ ，hěn bú hǎo ）"
+  },
+  {
+    "en": "Can you do that? Of course, maybe, can not",
+    "enInfo": "",
+    "cn": "你可以做到吗？当然，可能，不行",
+    "cnInfo": "nǐ kě yǐ zuò dào ma ？dāng rán ，kě néng ，bú háng "
+  },
+  {
+    "en": "Can you do that? Of course, maybe, can not",
+    "enInfo": "",
+    "cn": "你可以做到吗？当然，可能，不行",
+    "cnInfo": "nǐ kě yǐ zuò dào ma ？dāng rán ，kě néng ，bú háng "
+  },
+  {
+    "en": "You need to learn all learning cards until next time",
+    "enInfo": "",
+    "cn": "你必须在下节课前学会所有的学习卡",
+    "cnInfo": "nǐ bì xū zài xià jiē kè qián xué huì suǒ yǒu de xué xí kǎ "
+  },
+  {
+    "en": "You are very lazy, diligent, energetic",
+    "enInfo": "",
+    "cn": "你非常懒，勤奋，有活力",
+    "cnInfo": "nǐ fēi cháng lǎn ，qín fèn ，yǒu huó lì "
+  },
+  {
+    "en": "The class starts now / The class is over",
+    "enInfo": "",
+    "cn": "现在开始上课  /  下课",
+    "cnInfo": "xiàn zài kāi shǐ shàng kè   / xià kè "
+  },
+  {
+    "en": "Do not touch (scratch) your eyes / mouth / butt",
+    "enInfo": "",
+    "cn": "不要碰（蹭）你的眼睛  /  嘴巴  /  屁股",
+    "cnInfo": "bú yào pèng （cèng ）nǐ de yǎn jīng   /  zuǐ bā   /  pì gǔ "
+  },
+  {
+    "en": "Did you finished your homework? / Yes, I did! Half finished. Not started yet",
+    "enInfo": "",
+    "cn": "你完成你的家庭作业了吗？  /  是，我完成了！  完成了一半 。 还没有开始",
+    "cnInfo": "nǐ wán chéng nǐ de jiā tíng zuò yè le ma ？  /  shì ，wǒ wán chéng le ！  wán chéng le yī bàn  。 hái méi yǒu kāi shǐ "
+  },
+  {
+    "en": "How was school? Great: I made a new friend. Great: I got a high score in test",
+    "enInfo": "",
+    "cn": "在学校过得怎么样 ？ 非常好：我交到了新朋友 。非常好：我考试得了高分",
+    "cnInfo": "zài xué xiào guò dé zěn me yàng  ？ fēi cháng hǎo ：wǒ jiāo dào le xīn péng yǒu  。fēi cháng hǎo ：wǒ kǎo shì dé le gāo fèn "
+  },
+  {
+    "en": "How do you feel? Good, bad | energetic, weak | excited,  bored",
+    "enInfo": "",
+    "cn": "你感觉怎么样？ 很好，坏  /   有活力，弱  /  兴奋 ，无聊",
+    "cnInfo": "nǐ gǎn jué zěn me yàng ？ hěn hǎo ，huài   /   yǒu huó lì ，ruò   /  xìng fèn  ，wú liáo "
+  },
+  {
+    "en": "How much homework do you have? Not much, it is OK, a lot. I want to cry",
+    "enInfo": "",
+    "cn": "你有多少家庭作业？ 没有太多，还可以。 非常多。我想哭",
+    "cnInfo": "nǐ yǒu duō shǎo jiā tíng zuò yè ？ méi yǒu tài duō ，hái kě yǐ 。 fēi cháng duō 。wǒ xiǎng kū "
+  },
+  {
+    "en": "Did you washed your face? Did you brushed your teeth? Yes, I did. No, not yet",
+    "enInfo": "",
+    "cn": "\n你洗脸了吗？ 你刷牙了吗 ？是，我洗了（是的，我刷了）。还没有。",
+    "cnInfo": "nǐ xǐ liǎn le ma ？ nǐ shuā yá le ma  ？shì ，wǒ xǐ le （shì de ，wǒ shuā le ）。hái méi yǒu 。\n"
+  },
+  {
+    "en": "You need to dress warmer! You are dressed too warm! ",
+    "enInfo": "",
+    "cn": "你需要穿得暖活一点 ！  你穿得太多了！",
+    "cnInfo": "nǐ xū yào chuān dé nuǎn huó yī diǎn  ！  nǐ chuān dé tài duō le ！"
+  },
+  {
+    "en": "How hungry are you? Not very hungry, normal, I want to eat a horse",
+    "enInfo": "",
+    "cn": "你有多饿 ？ 不是非常饿，正常。我想吃一头马",
+    "cnInfo": "nǐ yǒu duō è  ？ bú shì fēi cháng è ，zhèng cháng 。wǒ xiǎng chī yī tóu mǎ "
+  },
+  {
+    "en": "Cut your fingernails! Clean your fingernails! Whoops, I will do immediately!",
+    "enInfo": "",
+    "cn": "剪掉你的指甲 ！ 清理你的指甲！哦，我马上去做。",
+    "cnInfo": "jiǎn diào nǐ de zhǐ jiǎ  ！ qīng lǐ nǐ de zhǐ jiǎ ！ò ，wǒ mǎ shàng qù zuò 。"
+  },
+  {
+    "en": "Put your shoes into the right place! Sorry about that. Thanks for reminding.",
+    "enInfo": "",
+    "cn": "将你的鞋子放在正确的位置 ！ 关于这个很抱歉。 谢谢你提醒",
+    "cnInfo": "jiāng nǐ de xié zǐ fàng zài zhèng què de wèi zhì  ！ guān yú zhè gè hěn bào qiàn 。 xiè xiè nǐ tí xǐng \n"
+  },
+  {
+    "en": "Please hang up your clothes! I will do now. I will try to remember next time!",
+    "enInfo": "",
+    "cn": "请挂好你的衣服 ！ 我现在去挂。我下次尝试记得！",
+    "cnInfo": "qǐng guà hǎo nǐ de yī fú  ！ wǒ xiàn zài qù guà 。wǒ xià cì cháng shì jì dé ！"
+  },
+  {
+    "en": "Please straighten your bed! Oh. Will do. I will try to be more tidy next time!",
+    "enInfo": "",
+    "cn": "请整理你的床 ！ 哦，我会的。我下次会尝试整理更整洁一些",
+    "cnInfo": "qǐng zhěng lǐ nǐ de chuáng  ！ ò ，wǒ huì  de 。wǒ xià cì huì cháng shì zhěng lǐ gèng zhěng jié yī xiē "
+  },
+  {
+    "en": "Have you practiced your flute today? Not yet, will do now. Yes, I have!",
+    "enInfo": "",
+    "cn": "你今天练习长笛了吗？还没有，现在去。是，我有。",
+    "cnInfo": "nǐ jīn tiān liàn xí zhǎng dí le ma ？hái méi yǒu ，xiàn zài qù 。shì ，wǒ yǒu 。"
+  },
+  {
+    "en": "How was the meal? Very good. I am full now.",
+    "enInfo": "",
+    "cn": "饭菜怎么样？ 非常好，我现在很饱了。",
+    "cnInfo": "fàn cài zěn me yàng ？ fēi cháng hǎo ，wǒ xiàn zài hěn bǎo le 。"
+  },
+  {
+    "en": "Wash your hair! It is so oily! | You remembered to wash your hair, thank you!",
+    "enInfo": "",
+    "cn": "洗洗你的头发！它很油 ！  /    你记得洗头发了，谢谢你！",
+    "cnInfo": "xǐ xǐ nǐ de tóu fā ！tā hěn yóu  ！  /    nǐ jì dé xǐ tóu fā le ，xiè xiè nǐ ！"
+  }
+]
