@@ -25,8 +25,15 @@
 </head>
 <body ng-controller="mainController">
 
-	<div class="uk-container uk-container-center">
-		<p>ASDa</p>
+	<div ng-repeat="word in words" class="word">
+		<div class="en">
+		<h3 ng-bind-html="word.en"></h3>
+		<p ng-bind-html="word.enInfo"></p>
+		</div>
+		<div class="cn">
+		<h2 ng-bind-html="word.cn"></h2>
+		<p ng-bind-html="word.cnInfo" style="margin:0"></p>
+		</div>
 	</div>
 
 	<!-- Angular -->

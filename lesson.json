@@ -1,0 +1,122 @@
+[
+  {
+    "en": "Hello<br>Good Bye",
+    "enInfo": "",
+    "cn": "你好<br>再见",
+    "cnInfo": "ni hao<br>zai jian"
+  },
+  {
+    "en": "Please<br>Thank You",
+    "enInfo": "",
+    "cn": "请<br>谢谢",
+    "cnInfo": "qing<br>xie xie"
+  },
+  {
+    "en": "I am sorry<br>",
+    "enInfo": "",
+    "cn": "对不起",
+    "cnInfo": "dui bu qi"
+  },
+  {
+    "en": "Good morning<br>Good afternoon<br>Good evening",
+    "enInfo": "",
+    "cn": "早安<br>下午好<br>晚上好",
+    "cnInfo": "zao an<br>xia wu hao<br>wan shan hao"
+  },
+  {
+    "en": "Go to bed!<br>Time to wake up!",
+    "enInfo": "",
+    "cn": "快点去睡觉<br>起床啦!",
+    "cnInfo": "kuai dian qu shui jiao<br>qi chuang la!"
+  },
+  {
+    "en": "How is it going?",
+    "enInfo": "The chinese word-for-word translation is: \"Have you eaten already\". This is from bad times. When it was not going well there was no food.",
+    "cn": "你吃了吗",
+    "cnInfo": "ni che le ma?<br>中文直译是\"你吃了吗\"。这是以前环境不好的说法，没有饭吃就过得不好"
+  },
+  {
+    "en": "Where are you off to?",
+    "enInfo": "",
+    "cn": "你要去哪?",
+    "cnInfo": "Ni yao qu nar?<br>这是交谈时的礼貌的方式。表示有兴趣了解你的去向"
+  },
+  {
+    "en": "Goodbye<br>Goodnight<br>See you tomorow",
+    "enInfo": "",
+    "cn": "再见<br>晚安<br>明天见",
+    "cnInfo": "Zai jian<br>wan an<br>ming tian jian"
+  },
+  {
+    "en": "Thank you<br>No need to thank",
+    "enInfo": "",
+    "cn": "谢谢<br>不用谢",
+    "cnInfo": "xie xie<br>bu yong xie"
+  },
+  {
+    "en": "Thank you (showing appreciation)",
+    "enInfo": "Literally: I have given you so much trouble. Say this when someone helped you and you want to show your appreciation.",
+    "cn": "麻烦你了",
+    "cnInfo": "ma fan ni le<br>比如当你叫别人帮你把猫找回来。当别人把猫找回来的时候，说谢谢还不够，就要说麻烦你了"
+  },
+  {
+    "en": "Excuse me, when is dinner ready?",
+    "enInfo": "",
+    "cn": "请问,什么时候吃饭",
+    "cnInfo": "Qing wen, shen me shi hou chi fan<br>不像中文，在英文说吃饭的时候要说明吃饭的时期。比如午饭或晚饭"
+  },
+  {
+    "en": "May I ask your family name<br>My family name is Chen",
+    "enInfo": "",
+    "cn": "请问你贵姓<br>我姓陈",
+    "cnInfo": "qing wen ni gui xin?<br>wo xing yan yan"
+  },
+  {
+    "en": "Where are you from?<br>I am from China",
+    "enInfo": "",
+    "cn": "你是哪国人<br>我是中国人",
+    "cnInfo": "ni shi na guo ren?<br>wo lai zi zhong guo"
+  },
+  {
+    "en": "What is this called?<br>This is called tea.",
+    "enInfo": "",
+    "cn": "这个叫什么<br>这个叫茶",
+    "cnInfo": "zhe ge jiao shen me?<br>zhe ge jiao cha."
+  },
+  {
+    "en": "I only speak very few English",
+    "enInfo": "",
+    "cn": "我只会一点英文",
+    "cnInfo": "wo zhi hui yi dian ying wen"
+  },
+  {
+    "en": "Can you say that again more simple please?",
+    "enInfo": "",
+    "cn": "你可以说得更简单一点吗?",
+    "cnInfo": "ni ke yi shuo de geng jian dan yi dian ma?"
+  },
+  {
+    "en": "Please speak more slowly",
+    "enInfo": "",
+    "cn": "请讲的慢一点",
+    "cnInfo": "qing jiang de man yi dian"
+  },
+  {
+    "en": "I understand<br>I do not understand",
+    "enInfo": "",
+    "cn": "我懂<br>我不懂",
+    "cnInfo": "wo dong<br>wo bu dong"
+  },
+  {
+    "en": "how old are you?<br>I am nine years old",
+    "enInfo": "",
+    "cn": "你今年几岁?<br>我今年9岁",
+    "cnInfo": "ni jin nian ji sui?<br>wo jin nian jiu sui"
+  },
+  {
+    "en": "What do you do? I am a ...<br>student, businessperson, nurse, engineer",
+    "enInfo": "",
+    "cn": "我是...学生,商人,护士,工程师",
+    "cnInfo": "wo shi ... xue sheng, shangren, hushi, gongchengshi"
+  }
+]

@@ -1,0 +1,13 @@
+body {
+	font-size:8pt;
+	line-height:10pt;
+}
+
+.word {
+	display: flex;
+	flex-direction: column;
+	page-break-before: always;
+}
+.word > .en {
+	height:120pt;
+}
